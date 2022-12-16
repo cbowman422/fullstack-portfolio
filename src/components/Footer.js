@@ -1,5 +1,7 @@
 function Footer(props) {
-  return <h1>Footer</h1>;
+  return <>
+  <a href="https://www.linkedin.com/in/cbowman422/"> LinkedIn</a>
+  </>;
 }
 
 export default Footer;

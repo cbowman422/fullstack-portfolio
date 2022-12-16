@@ -1,0 +1,15 @@
+.headerNav {
+  background-color: lightblue;
+  position: fixed;
+}
+
+.headerLink{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 35px;
+}
+
+.linkTag {
+  padding: 20px;
+}

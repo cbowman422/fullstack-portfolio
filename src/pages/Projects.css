@@ -1,0 +1,9 @@
+.projectImg {
+  width: 340px;
+}
+
+.projectContainer{
+display: flex;
+flex-direction: column;
+margin-left: 250px;
+}
