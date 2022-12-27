@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gaegu:wght@300;700&family=Playfair+Display:wght@600&display=swap');
+
 .footerContainer {
-  margin-left: 250px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 40px;
+}
+
+.footerLinkTag{
+  text-decoration: none;
+  font-family: 'Playfair Display', serif;
+  font-size: 46px;
+  color: rgb(22, 18, 14)
 }

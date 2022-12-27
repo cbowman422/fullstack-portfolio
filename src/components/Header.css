@@ -2,8 +2,7 @@
 
 
 .headerNav {
-  background-color: lightblue;
-  /* position: fixed; */
+  background-color: rgba(97, 46, 17, 0.783);
 }
 
 .headerLink{
@@ -12,12 +11,13 @@
   padding: 36px;
 }
 
-.linkTag {
+.headerLinkTag {
   padding: 20px;
   font-size: 32px;
   font-family: 'Playfair Display', serif;
+  color: rgb(12, 12, 12)
 }
 
-.linkLine {
+.headerLinkLine {
   text-decoration: none;
 }

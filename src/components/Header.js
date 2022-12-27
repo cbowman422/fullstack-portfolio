@@ -8,14 +8,14 @@ function Header(props) {
   return (
     <header className="headerNav">
       <nav className="headerLink">
-      <Link className="linkLine" to="/">
-          <div className="linkTag" >HOME</div>
+      <Link className="headerLinkLine" to="/">
+          <div className="headerLinkTag" >HOME</div>
         </Link>
-        <Link className="linkLine" to="/projects">
-          <div className="linkTag" >PROJECTS</div>
+        <Link className="headerLinkLine" to="/projects">
+          <div className="headerLinkTag" >PROJECTS</div>
         </Link>
-        <Link className="linkLine" to="/contact">
-          <div className="linkTag" >CONTACT</div>
+        <Link className="headerLinkLine" to="/contact">
+          <div className="headerLinkTag" >CONTACT</div>
         </Link>
       </nav>
     </header>
