@@ -1,8 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gaegu:wght@300;700&family=Playfair+Display:wght@600&display=swap');
+
+
 .homeContainer {
+
 }
 
 .homeTitle {
   font-size: 46px;
+  font-family: 'Playfair Display', serif;
 }
 
 .homeParagraph {

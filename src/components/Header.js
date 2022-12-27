@@ -8,13 +8,13 @@ function Header(props) {
   return (
     <header className="headerNav">
       <nav className="headerLink">
-      <Link to="/">
+      <Link className="linkLine" to="/">
           <div className="linkTag" >HOME</div>
         </Link>
-        <Link to="/projects">
+        <Link className="linkLine" to="/projects">
           <div className="linkTag" >PROJECTS</div>
         </Link>
-        <Link to="/contact">
+        <Link className="linkLine" to="/contact">
           <div className="linkTag" >CONTACT</div>
         </Link>
       </nav>

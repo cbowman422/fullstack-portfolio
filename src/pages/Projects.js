@@ -35,7 +35,7 @@ function Projects(props) {
             <button className="githubButton">Github</button>
           </a>
           <a href={project.live}>
-            <button className="liveButton">live site</button>
+            <button className="liveButton">Live Site</button>
           </a>
         </div>
       </div>

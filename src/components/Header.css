@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gaegu:wght@300;700&family=Playfair+Display:wght@600&display=swap');
+
+
 .headerNav {
   background-color: lightblue;
   /* position: fixed; */
@@ -12,4 +15,9 @@
 .linkTag {
   padding: 20px;
   font-size: 32px;
+  font-family: 'Playfair Display', serif;
+}
+
+.linkLine {
+  text-decoration: none;
 }
