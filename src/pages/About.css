@@ -1,0 +1,12 @@
+.aboutContainer {
+  margin: 0 40px;
+ }
+ 
+ .aboutTitle {
+   font-size: 46px;
+   font-family: 'Playfair Display', serif;
+ }
+ 
+ .aboutParagraph {
+   font-size: 36px;
+ }

@@ -11,6 +11,9 @@ function Header(props) {
       <Link className="headerLinkLine" to="/">
           <div className="headerLinkTag" >HOME</div>
         </Link>
+        <Link className="headerLinkLine" to="/about">
+          <div className="headerLinkTag" >ABOUT ME</div>
+        </Link>
         <Link className="headerLinkLine" to="/projects">
           <div className="headerLinkTag" >PROJECTS</div>
         </Link>
