@@ -2,15 +2,19 @@
 
 .projectImg {
   width: 100%;
+  margin-bottom: 10px;
 }
 
 .projectContainer{
 display: flex;
 flex-direction: column;
 margin: 0 40px;
+align-items: center ;
+padding: 10px;
 }
 
 .projectName{
+  margin-top: 0px;
   font-family: 'Playfair Display', serif;
   font-size: 46px;
 }

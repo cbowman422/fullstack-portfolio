@@ -3,13 +3,23 @@
 
 .homeContainer {
  margin: 0 40px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
 }
 
 .homeTitle {
   font-size: 46px;
+  margin: 10px;
   font-family: 'Playfair Display', serif;
 }
 
 .homeParagraph {
   font-size: 36px;
+}
+
+.homeImage{
+  width: 60%;
+  margin: 10px;
 }
