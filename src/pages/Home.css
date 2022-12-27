@@ -1,3 +1,10 @@
 .homeContainer {
-  margin-left: 250px;
+}
+
+.homeTitle {
+  font-size: 46px;
+}
+
+.homeParagraph {
+  font-size: 36px;
 }

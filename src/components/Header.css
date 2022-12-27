@@ -1,15 +1,15 @@
 .headerNav {
   background-color: lightblue;
-  position: fixed;
+  /* position: fixed; */
 }
 
 .headerLink{
   display: flex;
-  flex-direction: column;
   justify-content: space-around;
-  padding: 35px;
+  padding: 36px;
 }
 
 .linkTag {
   padding: 20px;
+  font-size: 32px;
 }

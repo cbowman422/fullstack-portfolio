@@ -1,9 +1,24 @@
 .projectImg {
-  width: 340px;
+  width: 100%;
 }
 
 .projectContainer{
 display: flex;
 flex-direction: column;
-margin-left: 250px;
+}
+
+.projectName{
+  font-size: 46px;
+}
+
+.githubButton{
+  font-size: 26px;
+}
+
+.liveButton{
+  font-size: 26px;
+}
+
+.projectButtonDiv{
+  display: flex;
 }
