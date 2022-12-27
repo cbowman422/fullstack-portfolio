@@ -7,17 +7,17 @@ function Header(props) {
 
   return (
     <header className="headerNav">
-      <nav className="headerLink">
-      <Link className="headerLinkLine" to="/">
+      <nav className="headerNavLinks">
+      <Link className="headerLink" to="/">
           <div className="headerLinkTag" >HOME</div>
         </Link>
-        <Link className="headerLinkLine" to="/about">
+        <Link className="headerLink" to="/about">
           <div className="headerLinkTag" >ABOUT ME</div>
         </Link>
-        <Link className="headerLinkLine" to="/projects">
+        <Link className="headerLink" to="/projects">
           <div className="headerLinkTag" >PROJECTS</div>
         </Link>
-        <Link className="headerLinkLine" to="/contact">
+        <Link className="headerLink" to="/contact">
           <div className="headerLinkTag" >CONTACT</div>
         </Link>
       </nav>

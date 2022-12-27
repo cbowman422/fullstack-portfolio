@@ -27,7 +27,7 @@ function Projects(props) {
   // define a function that will return the JSX needed once we get the data
   const loaded = () => {
     return projects.map((project, keyProject) => (
-      <div class="projectContainer" key={keyProject} >
+      <div className="projectContainer" key={keyProject} >
         <h1 className="projectName">{project.name}</h1>
         <img className='projectImg' src={project.image} />
         <div className="projectButtonDiv">
