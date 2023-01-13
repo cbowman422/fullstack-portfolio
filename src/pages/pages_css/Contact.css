@@ -11,5 +11,8 @@
   .contactInfo {
     font-size: 32px;
   }
+  .contactContainer {
+    margin: auto;
+  }
   
 }

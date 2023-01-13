@@ -20,5 +20,10 @@
   .aboutParagraph {
     font-size: 22px;
   }
+
+  .aboutContainer {
+    width : 50%;
+    margin: auto;
+   }
   
 }
