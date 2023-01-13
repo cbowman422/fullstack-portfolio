@@ -8,7 +8,11 @@ const About = () => {
       <h1 className="aboutTitle"> About me</h1>
       <p className="aboutParagraph"> With a passion for art and a degree in mechanical engineering. Some of my hobbies besides programming include painting, mathematics, being a good role model for my dog, creating music, rock climbing, skiing, and martial arts.</p>
       <h1 className="aboutTitle"> Technical Skills</h1>
-      <p className="aboutParagraph"> Typescript | Java | Python | Rust | JavaScript | C++ | Bash | React.js | SQL | MongoDB | MATLAB </p>
+      <p className="aboutParagraph"> Languages - Typescript | Python | JavaScript | SQL | Mongo | JSON | EJS | HTML | CSS | MATLAB | Arduino <br />
+Databases - PostgreSQL | MongoDB <br />
+Libraries and Frameworks - React.js | Express.js | Django | Flask <br />
+Softwares - ABAQUS | Altair HyperWorks | ANSYS | Fluent | SolidWorks | Mathcad | Microsoft Office <br />
+Interpersonal Skills - Communication Skills | Collaboration  </p>
     </div>
   )
 }
