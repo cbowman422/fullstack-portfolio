@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gaegu:wght@300;700&family=Playfair+Display:wght@600&display=swap');
+
+.homeContainer {
+margin: 0 40px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.homeTitle {
+font-size: 46px;
+margin: 10px;
+font-family: 'Playfair Display', serif;
+}
+
+.homeParagraph {
+font-size: 36px;
+}
+
+.homeImage{
+width: 60%;
+margin: 10px;
+}
+
+@media all and (min-width: 400px) and (max-width: 600px){
+
+  .homeImage{
+    width: 45%;
+    }
+  
+  .homeTitle {
+    font-size: 36px;
+    }
+
+  .homeParagraph {
+    font-size: 26px;
+    }
+
+}
+
+
+@media all and (min-width: 601px) and (max-width: 800px){
+
+  .homeImage{
+    width: 40%;
+    }
+  
+  .homeTitle {
+    font-size: 32px;
+    }
+
+  .homeParagraph {
+    font-size: 22px;
+    }
+  
+}
+
+
+@media all and (min-width: 801px){
+
+  .homeImage{
+    width: 310px;
+    }
+
+  .homeTitle {
+    font-size: 32px;
+    }
+
+  .homeParagraph {
+    font-size: 22px;
+    }
+
+}
+

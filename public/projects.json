@@ -1,10 +1,22 @@
 [
 
   {
+    "name": "FotoBook",
+    "live": "https://fotobook-1031ec.netlify.app/",
+    "git": "https://github.com/efrainenc/project-3-fe",
+    "image": "https://imgur.com/JnzYRPP.jpg"
+  },
+  {
     "name": "HAPI Hour - React.js | thecocktaildb API",
     "live": "https://hapi-hour.netlify.app/",
     "git": "https://github.com/cbowman422/project-2",
     "image": "https://imgur.com/CxEXPkD.jpg"
+  },
+  {
+    "name": "APItizers - React.js | themealdb API | Hackathon",
+    "live": "https://api-tizers.netlify.app/",
+    "git": "https://github.com/JohnnyGoodrich/snacks-fe",
+    "image": "https://imgur.com/VFk3hz9.jpg"
   },
   {
     "name": "War Card Game - HTML | CSS | JavaScript",

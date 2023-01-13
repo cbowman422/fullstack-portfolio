@@ -1,4 +1,4 @@
-import "./Home.css";
+import "./pages_css/Home.css";
 
 function Home(props) {
   return < div className="homeContainer" >

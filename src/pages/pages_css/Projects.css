@@ -30,3 +30,14 @@ padding: 10px;
 .projectButtonDiv{
   display: flex;
 }
+
+@media all and (min-width: 400px){
+  .projectImg {
+    width: 50%;
+  
+  }
+  .projectName{
+    font-size: 32px;
+  }
+
+}

@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "./Contact.css";
+import "./pages_css/Contact.css";
 
 function Contact(props) {
   // create state to hold about data

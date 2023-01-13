@@ -1,4 +1,4 @@
-import "./Footer.css";
+import "./componenets_css/Footer.css";
 
 function Footer(props) {
   return <div className="footerContainer">
