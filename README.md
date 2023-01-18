@@ -1,3 +1,3 @@
 # Link to Deployment
 
-https://christopher-bowman-porfolio.netlify.app/
+https://christopher-bowman.netlify.app/
