@@ -11,7 +11,7 @@
 
 .headerLinkTag {
   padding: 20px;
-  font-size: 32px;
+  font-size: 10px;
   font-family: 'Playfair Display', serif;
 }
 
@@ -37,7 +37,7 @@ button:hover, .headerLink:hover {
 @media all and (min-width: 400px){
   .headerLinkTag {
  
-    font-size: 26px;
+    font-size: 10px;
     
   }
 

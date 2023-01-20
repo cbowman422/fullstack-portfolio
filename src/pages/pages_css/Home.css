@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gaegu:wght@300;700&family=Playfair+Display:wght@600&display=swap');
 
+
+
+
 .homeContainer {
 margin: 0 40px;
 display: flex;
@@ -19,14 +22,14 @@ font-size: 36px;
 }
 
 .homeImage{
-width: 60%;
+width: 60vw;
 margin: 10px;
 }
 
 @media all and (min-width: 400px) and (max-width: 600px){
 
   .homeImage{
-    width: 45%;
+    width: 45vw;
     }
   
   .homeTitle {
@@ -43,7 +46,7 @@ margin: 10px;
 @media all and (min-width: 601px) and (max-width: 800px){
 
   .homeImage{
-    width: 40%;
+    width: 40vw;
     }
   
   .homeTitle {
