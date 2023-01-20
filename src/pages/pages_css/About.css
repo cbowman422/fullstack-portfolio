@@ -1,18 +1,18 @@
 .aboutContainer {
- margin: 0 40px;
+ margin: 0 20px;
 }
 
 .aboutTitle {
-  font-size: 46px;
+  font-size: 24px;
   font-family: 'Playfair Display', serif;
 }
 
 .aboutParagraph {
-  font-size: 36px;
+  font-size: 20px;
 }
 
 
-@media all and (min-width: 400px){
+@media all and (min-width: 500px){
   .aboutTitle {
     font-size: 32px;
     }
@@ -22,7 +22,7 @@
   }
 
   .aboutContainer {
-    width : 50%;
+    width : 56%;
     margin: auto;
    }
   

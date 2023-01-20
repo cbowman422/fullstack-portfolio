@@ -12,13 +12,9 @@ align-items: center;
 }
 
 .homeTitle {
-font-size: 46px;
+font-size: 24px;
 margin: 10px;
 font-family: 'Playfair Display', serif;
-}
-
-.homeParagraph {
-font-size: 36px;
 }
 
 .homeImage{
@@ -26,18 +22,14 @@ width: 60vw;
 margin: 10px;
 }
 
-@media all and (min-width: 400px) and (max-width: 600px){
+@media all and (min-width: 500px) and (max-width: 600px){
 
   .homeImage{
     width: 45vw;
     }
   
   .homeTitle {
-    font-size: 36px;
-    }
-
-  .homeParagraph {
-    font-size: 26px;
+    font-size: 28px;
     }
 
 }
@@ -53,10 +45,6 @@ margin: 10px;
     font-size: 32px;
     }
 
-  .homeParagraph {
-    font-size: 22px;
-    }
-  
 }
 
 
@@ -68,10 +56,6 @@ margin: 10px;
 
   .homeTitle {
     font-size: 32px;
-    }
-
-  .homeParagraph {
-    font-size: 22px;
     }
 
 }
