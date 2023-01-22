@@ -20,6 +20,7 @@ font-family: 'Playfair Display', serif;
 .homeImage{
 width: 60vw;
 margin: 10px;
+border-radius: 14px;
 }
 
 @media all and (min-width: 500px) and (max-width: 600px){

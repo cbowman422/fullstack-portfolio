@@ -30,6 +30,7 @@ function Projects(props) {
       <div className="projectContainer" key={keyProject} >
         <h1 className="projectName">{project.name}</h1>
         <img className='projectImg' src={project.image} />
+        <p className="projectDesc">{project.description}</p>
         <div className="projectButtonDiv">
           <a href={project.git} target="_blank">
             <button className="githubButton">Github</button>

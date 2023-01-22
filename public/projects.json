@@ -4,31 +4,36 @@
     "name": "FotoBook",
     "live": "https://foto-book.netlify.app/",
     "git": "https://github.com/efrainenc/project-3-fe",
-    "image": "https://imgur.com/PxLHu4L.jpg"
+    "image": "https://imgur.com/PxLHu4L.jpg",
+    "description" : "A reverse engineering of Instagram with login/ authorization, profiles, posting, commenting, and editing functionality. You can post Images and save them to your custom profiles collection that will display on the explore page."
   },
   {
     "name": "HAPI Hour - React.js | thecocktaildb API",
     "live": "https://hapi-hour.netlify.app/",
     "git": "https://github.com/cbowman422/project-2",
-    "image": "https://imgur.com/CxEXPkD.jpg"
+    "image": "https://imgur.com/CxEXPkD.jpg",
+    "description" : "An app built to help you find drink recipes from the cocktail db API. You can search by name/ phrase, search by ingredient, choose a random drink, or start with a base ingredient choice and browse."
   },
   {
     "name": "APItizers - React.js | themealdb API | Hackathon",
     "live": "https://api-tizers.netlify.app/",
     "git": "https://github.com/JohnnyGoodrich/snacks-fe",
-    "image": "https://imgur.com/VFk3hz9.jpg"
+    "image": "https://imgur.com/VFk3hz9.jpg",
+    "description" : "An app built to help you find meal recipes from the meal db API. This was a project for the General Assembly SEIR Hackathon where I collaborated in a team of 4. APITIZERS received 1st place in the hackathon."
   },
   {
     "name": "War Card Game - HTML | CSS | JavaScript",
     "live": "https://cb-war-card-game.netlify.app",
     "git": "https://github.com/cbowman422/Project-1-War-CardGame",
-    "image": "https://imgur.com/d8WEw2F.jpg"
+    "image": "https://imgur.com/d8WEw2F.jpg",
+    "description" : "An app that allows you to play the card game war online! Using only HTML, CSS, JS, and DOM manipulation."
   },
   {
     "name": "Tic Tac Toe Game - HTML | CSS | JavaScript",
     "live": "https://project-0-tictactoe.netlify.app/",
     "git": "https://github.com/cbowman422/Project-0-TTT",
-    "image": "https://imgur.com/P6uPNNL.jpg"
+    "image": "https://imgur.com/P6uPNNL.jpg",
+    "description" : "Play Tic Tac Toe against a computer or another player!"
   }
   
 
