@@ -7,7 +7,7 @@
 }
 
 .projectDesc{
-  width: 70%;
+  width: 90%;
   font-family: 'Playfair Display', serif;
 }
 
@@ -46,4 +46,8 @@ padding: 10px;
     font-size: 32px;
   }
 
+  .projectDesc{
+    width: 70%;
+    
+  }
 }
