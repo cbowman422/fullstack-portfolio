@@ -16,5 +16,6 @@
 
 .footerLinkTag:hover {
   color: var(--highlight-color);
-  font-size: 28px;
+  font-size: 24px;
+  transition: var(--transition);
 }
