@@ -2,7 +2,7 @@
  margin: 0 40px;
  background-color: var(--light-color);
  border-radius: 14px;
- padding: 1px 20px;
+ padding: 1px 20px 20px 20px;
 }
 
 .aboutMargin{
@@ -33,7 +33,7 @@
   .aboutContainer {
     width : 56%;
     margin: auto;
-    padding: 1px 10%;
+    padding: 1px 10% 20px 10%;
    }
   
 }
