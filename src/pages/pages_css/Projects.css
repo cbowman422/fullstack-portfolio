@@ -11,14 +11,27 @@
   font-size: 20px;
 }
 
+.upArrow{
+  width: 50px;
+  margin-top: 6px;
+}
+
+.upArrow:hover{
+  width: 56px;
+  transition: var(--transition);
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius:100px;
+}
+
 .projectContainer{
-display: flex;
-flex-direction: column;
-margin: 20px 40px;
-align-items: center ;
-padding: 20px;
-background-color: var(--light-color);
-border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px 40px;
+  align-items: center ;
+
+  padding: 20px;
+  background-color: var(--light-color);
+  border-radius: 14px;
 }
 
 .projectName{
@@ -59,6 +72,7 @@ border-radius: 14px;
     }
     
 }
+
 
 @media all and (min-width: 801px) and (max-width: 1200px){
 

@@ -24,6 +24,18 @@ function Projects(props) {
     getProjectsData()
   },[]);
 
+
+  // Function to scroll down in Home screen from click.
+	function scrollToList()
+	{
+		window.scrollTo(
+		{
+			top: 10,
+			behavior:"smooth"
+		})
+	}
+
+
   // define a function that will return the JSX needed once we get the data
   const loaded = () => {
     return projects.map((project, keyProject) => (
@@ -39,6 +51,7 @@ function Projects(props) {
             <button className="liveButton">Live Site</button>
           </a>
         </div>
+          <a onClick={scrollToList}> 	<img className="upArrow" src='https://imgur.com/RZpAWGr.jpg'/></a>
       </div>
     ));
   };
