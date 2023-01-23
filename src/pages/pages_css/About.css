@@ -1,5 +1,12 @@
 .aboutContainer {
  margin: 0 20px;
+ background-color: var(--light-color);
+ border-radius: 14px;
+ padding: 20px;
+}
+
+.aboutMargin{
+  padding: 20px 0;
 }
 
 .aboutTitle {
