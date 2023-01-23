@@ -1,23 +1,23 @@
 
 .headerNav {
-  background-color: rgba(97, 46, 17, 0.783);
+  background-color: rgba(97, 46, 17, 0.8);
 }
 
 .headerNavLinks{
   display: flex;
   justify-content: space-around;
-  padding: 10px;
+  padding: 10px 0;
 }
 
 .headerLinkTag {
-  padding: 5px;
+  padding: 5px ;
   font-size: 14px;
   font-family: 'Playfair Display', serif;
 }
 
 button, .headerLink {
   text-decoration: none;
-  padding: 10px 16px;
+  padding: 10px 4px;
   border: 2px solid transparent;
   background-color: var(--highlight-color);
   color: var(--bg-color);
@@ -34,11 +34,13 @@ button:hover, .headerLink:hover {
 }
 
 
-@media all and (min-width: 400px){
+@media all and (min-width: 600px){
   .headerLinkTag {
- 
-    font-size: 10px;
-    
+    font-size: 14px;
+  }
+
+  .headerLink {
+    padding: 10px 24px;
   }
 
 }
