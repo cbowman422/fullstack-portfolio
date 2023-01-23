@@ -14,7 +14,7 @@
   color: rgb(22, 18, 14)
 }
 
-button:hover, .footerLinkTag:hover {
+.footerLinkTag:hover {
   color: var(--highlight-color);
   font-size: 28px;
 }
