@@ -60,7 +60,23 @@ border-radius: 14px;
     
 }
 
-@media all and (min-width: 801px){
+@media all and (min-width: 801px) and (max-width: 1200px){
+
+  .projectImg {
+    width: 70%;
+  
+  }
+  .projectName{
+    font-size: 32px;
+  }
+
+  .projectContainer{
+    margin: 20px 120px;
+    }
+    
+}
+
+@media all and (min-width: 1201px){
 
   .projectImg {
     width: 70%;
@@ -75,4 +91,3 @@ border-radius: 14px;
     }
     
 }
-
