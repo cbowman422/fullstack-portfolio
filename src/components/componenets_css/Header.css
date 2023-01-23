@@ -1,6 +1,7 @@
 
 .headerNav {
   background-color: var(--brown);
+  border-radius: 6px;
 }
 
 /* rgba(97, 46, 17, 0.8); */
