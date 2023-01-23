@@ -40,9 +40,9 @@ border-radius: 14px;
   display: flex;
 }
 
-@media all and (min-width: 500px){
+@media all and (min-width: 500px) and (max-width: 800px){
   .projectImg {
-    width: 50%;
+    width: 80%;
   
   }
   .projectName{
@@ -55,7 +55,24 @@ border-radius: 14px;
   }
 
   .projectContainer{
+    margin: 20px 80px;
+    }
+    
+}
+
+@media all and (min-width: 801px){
+
+  .projectImg {
+    width: 70%;
+  
+  }
+  .projectName{
+    font-size: 32px;
+  }
+
+  .projectContainer{
     margin: 20px 180px;
     }
     
 }
+
