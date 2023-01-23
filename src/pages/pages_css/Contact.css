@@ -1,6 +1,15 @@
+.contactMargin{
+  display: flex;
+  margin: 20px;
+}
+
 .contactContainer {
   margin: auto;
+  background-color: var(--light-color);
+  border-radius: 14px;
+  padding: 60px;
 }
+
 
 .contactInfo {
   font-size: 24px;
