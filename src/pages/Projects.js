@@ -2,7 +2,25 @@ import { useState, useEffect } from "react";
 import "./pages_css/Projects.css";
 
 function Projects(props) {
-  // create state to hold projects
+ 
+
+  /*
+{
+  "name": "War Card Game - HTML | CSS | JavaScript",
+  "live": "https://cb-war-card-game.netlify.app",
+  "git": "https://github.com/cbowman422/Project-1-War-CardGame",
+  "image": "https://imgur.com/d8WEw2F.jpg",
+  "description" : "An app that allows you to play the card game war online! Using only HTML, CSS, JS, and DOM manipulation."
+},
+{
+  "name": "Tic Tac Toe Game - HTML | CSS | JavaScript",
+  "live": "https://project-0-tictactoe.netlify.app/",
+  "git": "https://github.com/cbowman422/Project-0-TTT",
+  "image": "https://imgur.com/P6uPNNL.jpg",
+  "description" : "Play Tic Tac Toe against a computer or another player!"
+}
+*/
+ // create state to hold projects
   const [projects, setProjects] = useState(null);
 
   //create function to make api call

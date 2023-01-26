@@ -20,21 +20,6 @@
     "git": "https://github.com/JohnnyGoodrich/snacks-fe",
     "image": "https://imgur.com/VFk3hz9.jpg",
     "description" : "An app built to help you find meal recipes from the meal db API. This was a project for the General Assembly SEIR Hackathon where I collaborated in a team of 4. APITIZERS received 1st place in the hackathon."
-  },
-  {
-    "name": "War Card Game - HTML | CSS | JavaScript",
-    "live": "https://cb-war-card-game.netlify.app",
-    "git": "https://github.com/cbowman422/Project-1-War-CardGame",
-    "image": "https://imgur.com/d8WEw2F.jpg",
-    "description" : "An app that allows you to play the card game war online! Using only HTML, CSS, JS, and DOM manipulation."
-  },
-  {
-    "name": "Tic Tac Toe Game - HTML | CSS | JavaScript",
-    "live": "https://project-0-tictactoe.netlify.app/",
-    "git": "https://github.com/cbowman422/Project-0-TTT",
-    "image": "https://imgur.com/P6uPNNL.jpg",
-    "description" : "Play Tic Tac Toe against a computer or another player!"
   }
   
-
 ]
