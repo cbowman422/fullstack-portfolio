@@ -1,9 +1,15 @@
 [
-
+  {
+    "name": "Millie's Messenger",
+    "live": "https://capstone-chat.netlify.app",
+    "git": "https://github.com/cbowman422/capstone_chat_fe",
+    "image": "https://imgur.com/sJvm2cN.jpg",
+    "description" : "A reverse engineering of Instagram with login/ authorization, profiles, posting, commenting, and editing functionality. You can post Images and save them to your custom profiles collection that will display on the explore page."
+  },
   {
     "name": "FotoBook",
     "live": "https://foto-book.netlify.app/",
-    "git": "https://github.com/efrainenc/project-3-fe",
+    "git": "https://github.com/cbowman422/project-3-fe",
     "image": "https://imgur.com/PxLHu4L.jpg",
     "description" : "A reverse engineering of Instagram with login/ authorization, profiles, posting, commenting, and editing functionality. You can post Images and save them to your custom profiles collection that will display on the explore page."
   },
