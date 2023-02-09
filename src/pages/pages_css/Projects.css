@@ -44,10 +44,13 @@
 .githubButton{
   font-size: 16px;
   margin-bottom: 10px;
+  margin-right: 30px;
+  margin-left: 22px;
 }
 
 .liveButton{
   font-size: 16px;
+  margin-left: 30px;
 }
 
 .projectButtonDiv{

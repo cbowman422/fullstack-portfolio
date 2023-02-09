@@ -12,9 +12,15 @@ align-items: center;
 }
 
 .homeTitle {
-font-size: 24px;
+font-size: 28px;
 margin: 10px;
 font-family: 'Playfair Display', serif;
+}
+
+.homeTitleSmall {
+  font-size: 22px;
+  margin: 10px 10px 20px 10px;
+  font-family: 'Playfair Display', serif;
 }
 
 .homeImage{
@@ -31,9 +37,12 @@ box-shadow: 2px 2px 5px gray;
     }
   
   .homeTitle {
-    font-size: 28px;
+    font-size: 30px;
     }
 
+    .homeTitleSmall {
+      font-size: 22px;
+    }
 }
 
 
@@ -44,7 +53,11 @@ box-shadow: 2px 2px 5px gray;
     }
   
   .homeTitle {
-    font-size: 32px;
+    font-size: 36px;
+    }
+
+    .homeTitleSmall {
+      font-size: 26px;
     }
 
 }
@@ -57,8 +70,13 @@ box-shadow: 2px 2px 5px gray;
     }
 
   .homeTitle {
-    font-size: 32px;
+    font-size: 36px;
     }
+
+    .homeTitleSmall {
+      font-size: 26px;
+    }
+
 
 }
 

@@ -4,28 +4,28 @@
     "live": "https://capstone-chat.netlify.app",
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
-    "description" : "Millie's Messenger is a live messenging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization."
+    "description" : "Millie's Messenger is a live messenging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization. To test Live Site, Login with username: Test  password: testuser"
   },
   {
     "name": "FotoBook",
     "live": "https://foto-book.netlify.app/",
     "git": "https://github.com/cbowman422/project-3-fe",
     "image": "https://imgur.com/PxLHu4L.jpg",
-    "description" : "A reverse engineering of Instagram with login/ authorization, profiles, posting, commenting, and editing functionality. You can post Images and save them to your custom profiles collection that will display on the explore page."
+    "description" : "A reverse engineering of Instagram with login/ authorization, profiles, posting, commenting, and editing functionality. User can post Images and save them to your custom profiles collection that will display on the explore page. MERN stack. To test Live Site, Login with username: Test  password: testuser"
   },
   {
-    "name": "HAPI Hour - React.js | thecocktaildb API",
+    "name": "HAPI Hour",
     "live": "https://hapi-hour.netlify.app/",
     "git": "https://github.com/cbowman422/project-2",
     "image": "https://imgur.com/CxEXPkD.jpg",
-    "description" : "An app built to help you find drink recipes from the cocktail db API. You can search by name/ phrase, search by ingredient, choose a random drink, or start with a base ingredient choice and browse."
+    "description" : "An app built to help user find drink recipes from the cocktail db API. You can search by name/ phrase, search by ingredient, choose a random drink, or start with a base ingredient choice and browse. React.js and thecocktaildb API. "
   },
   {
-    "name": "APItizers - React.js | themealdb API | Hackathon",
+    "name": "APItizers | Hackathon",
     "live": "https://api-tizers.netlify.app/",
     "git": "https://github.com/JohnnyGoodrich/snacks-fe",
     "image": "https://imgur.com/VFk3hz9.jpg",
-    "description" : "An app built to help you find meal recipes from the meal db API. This was a project for the General Assembly SEIR Hackathon where I collaborated in a team of 4. APITIZERS received 1st place in the hackathon."
+    "description" : "An app built to help user find meal recipes from the meal db API. This was a project for the General Assembly SEIR Hackathon where I collaborated in a team of 4. APITIZERS received 1st place in the hackathon. React.js and themealdb API."
   }
   
 ]
