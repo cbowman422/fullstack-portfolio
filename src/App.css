@@ -14,8 +14,12 @@
 /* --brown: #977a55; */
 
 body {
-  background-color: rgb(210, 210, 210);
+  background-image: linear-gradient( rgb(218, 216, 216), rgb(175, 175, 175));
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
+
 
 .App {
 display: grid;
