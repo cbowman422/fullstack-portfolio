@@ -21,6 +21,7 @@ font-family: 'Playfair Display', serif;
 width: 60vw;
 margin: 10px;
 border-radius: 14px;
+box-shadow: 2px 2px 5px gray;
 }
 
 @media all and (min-width: 500px) and (max-width: 600px){

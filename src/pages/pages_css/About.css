@@ -3,6 +3,7 @@
  background-color: var(--light-color);
  border-radius: 14px;
  padding: 1px 20px 20px 20px;
+ box-shadow: 2px 2px 5px gray;
 }
 
 .aboutMargin{
