@@ -1,13 +1,25 @@
-.contactContainer{
-  display: flex;
+.contactWrap{
+  
   clip-path: polygon(0 15vh,100% 0,100% 100%,0 100%);
   background-image: linear-gradient(135deg, rgb(107, 64, 18) 0%, rgb(171, 96, 16) 100%);
-  padding-top: 14%;
+  padding-top: 18%;
   padding-bottom: 6%;
-  justify-content: space-around;
-  color: var(--light-color);
 }
 
+
+.contactContainer{
+    color: var(--light-color);
+    display: flex;
+    justify-content: center;
+    
+ }
+
+
+.contactTitle{
+ text-align: center;
+ color: var(--light-color);
+ padding-bottom: 50px;
+}
 
 .contactInfo {
   font-size: 24px;
@@ -15,15 +27,26 @@
 }
 
 
-@media all and (max-width: 900px){
+@media all and (max-width: 1200px) and (min-width: 900px){
   .contactInfo {
     font-size: 30px;
   }
 
-  .contactContainer{
-   padding-top: 22%; 
-   flex-direction: column;
-   align-items: center;
+
+ 
+  .contactWrap{
+    padding-top: 12%;
+  }
+}
+
+@media all and (min-width: 1201px){
+  .contactInfo {
+    font-size: 30px;
+  }
+
+
+  .contactWrap{
+    padding-top: 8%;
   }
  
 }

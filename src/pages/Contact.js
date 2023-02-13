@@ -25,9 +25,14 @@ function Contact(props) {
 
   // define a function that will return the JSX needed once we get the data
   const loaded = () => (
+    <div className="contactWrap">
+    <h2 className="contactTitle"> CONTACT </h2>
     <div className="contactContainer">
       <h2 className="contactInfo">{contact.name}</h2>
+    </div>
+    <div className="contactContainer">
       <h2 className="contactInfo">{contact.email}</h2>
+    </div>
     </div>
   );
 
