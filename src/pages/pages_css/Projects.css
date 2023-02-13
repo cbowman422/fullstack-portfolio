@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gaegu:wght@300;700&family=Playfair+Display:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 .projectImg {
   width: 100%;
@@ -10,9 +11,10 @@
 .projectDesc{
   width: 90%;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 
-.upArrow{
+/* .upArrow{
   width: 50px;
   margin-top: 6px;
 }
@@ -22,11 +24,12 @@
   transition: var(--transition);
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   border-radius:100px;
-}
+} */
 
 .projectContainer{
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   margin: 20px 40px;
   align-items: center ;
   box-shadow: 2px 2px 5px gray;
@@ -97,15 +100,28 @@
 @media all and (min-width: 1201px){
 
   .projectImg {
-    width: 70%;
+    width: 40%;
   
   }
   .projectName{
-    font-size: 32px;
+    font-size: 26px;
   }
 
   .projectContainer{
-    margin: 20px 180px;
+    margin: 10px 50px;
+    border: solid red;
+    
     }
+
+  .projectsGrid{
+    border: solid green;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    padding: 0 138px;
+  }
+  .projectDesc{
+    font-size: 16px;
+  }
     
 }

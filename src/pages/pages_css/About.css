@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 .aboutContainer {
  margin: 0 40px;
  background-color: var(--light-color);
@@ -19,6 +21,7 @@
 
 .aboutParagraph {
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 

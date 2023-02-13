@@ -42,16 +42,16 @@ function Projects(props) {
     getProjectsData()
   },[]);
 
-
-  // Function to scroll down in Home screen from click.
-	function scrollToList()
-	{
-		window.scrollTo(
-		{
-			top: 10,
-			behavior:"smooth"
-		})
-	}
+// TODO this is the scroll up function that was removed
+  // // Function to scroll down in Home screen from click.
+	// function scrollToList()
+	// {
+	// 	window.scrollTo(
+	// 	{
+	// 		top: 10,
+	// 		behavior:"smooth"
+	// 	})
+	// }
 
 
   // define a function that will return the JSX needed once we get the data
@@ -69,12 +69,15 @@ function Projects(props) {
             <button className="liveButton">Live Site</button>
           </a>
         </div>
-          <a onClick={scrollToList}> 	<img className="upArrow" src='https://imgur.com/RZpAWGr.jpg'/></a>
       </div>
     ));
   };
 
-  return projects ? loaded() : <h1>Loading...</h1>;
+  return <>
+  <section className="projectsGrid">
+  {projects ? loaded() : <h1>Loading...</h1>}
+  </section>
+  </>
 }
 
 export default Projects;
