@@ -66,7 +66,9 @@ function Projects(props) {
  
       return projects.map((project, keyProject) => ( keyProject%2===0?
         <div className="projectContainerImageLeft" key={keyProject} >
-          <img className='projectImg' src={project.image} />
+          <a href={project.live} className='projectImgCont' target="_blank" >
+           <img className='projectImg' src={project.image} />
+          </a>
           <h2 className="projectName">{project.name}</h2>
           <p className="projectDesc">{project.description}</p>
           <div className="projectButtonDiv">
@@ -80,7 +82,9 @@ function Projects(props) {
         </div>
         :
         <div className="projectContainerImageRight" key={keyProject} >
-        <img className='projectImg' src={project.image} />
+        <a href={project.live} className='projectImgCont' target="_blank">
+         <img className='projectImg' src={project.image} />
+        </a>
         <h2 className="projectName">{project.name}</h2>
         <p className="projectDesc">{project.description}</p>
         <div className="projectButtonDiv">
@@ -97,7 +101,7 @@ function Projects(props) {
 
   return <>
   <section className="projectsGrid">
-    <h2 className="projectsGridTitle">Projects 🗃 </h2>
+    <h2 className="projectsGridTitle">Projects </h2>
   {projects ? loaded() : <p>Loading...</p>}
   </section>
   </>
