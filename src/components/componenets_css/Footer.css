@@ -16,10 +16,14 @@
   font-family: 'Playfair Display', serif;
   font-size: 24px;
   color: var(--light-color);
+  border: 2px solid var(--dark-color);
+  padding: 4px;
 }
 
 .footerLinkTag:hover {
-  color: rgb(171, 96, 16);
-  font-size: 24px;
+ 
+  color: var(--light-color);
+  border: 2px solid var(--light-color);
+  border-radius: 8px;
   transition: var(--transition);
 }
