@@ -1,58 +1,59 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gaegu:wght@300;700&family=Playfair+Display:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
+
+.projectContainerImageLeft{
+  display: grid;
+  padding: 10px;
+  border: solid red;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr .1fr 1fr;
+  grid-template-areas: 
+    "image"
+    "title"
+    "projectDesc" 
+    "buttons ";
+  place-items: center;
+}
+
+.projectContainerImageRight{
+  display: grid;
+  padding: 10px;
+  border: solid blue;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr .1fr 1fr;
+  grid-template-areas: 
+    "image"
+    "title"
+    "projectDesc" 
+    "buttons ";
+  place-items: center;
+}
+
 .projectImg {
   width: 100%;
+  height: 100%;
   margin-bottom: 10px;
   border-radius: 14px;
   box-shadow: 2px 2px 5px rgba(128, 128, 128, 0.69);
+  grid-area: image;
 }
 
 .projectDesc{
   width: 90%;
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
+  grid-area: projectDesc;
+  
 }
 
-/* .upArrow{
-  width: 50px;
-  margin-top: 6px;
-}
-
-.upArrow:hover{
-  width: 56px;
-  transition: var(--transition);
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-  border-radius:100px;
-} */
-
-.projectContainer{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  position: relative;
-  margin: 20px 40px;
-  align-items: center ;
-  padding: 20px;
-  border: solid red;
-
-}
-.projectContainerImageRight{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  position: relative;
-  margin: 20px 40px;
-  align-items: center ;
-  padding: 20px;
-  border: solid blue;
-
-}
 
 .projectName{
-  margin-top: 0px;
+  grid-area: title;
   font-family: 'Playfair Display', serif;
   font-size: 24px;
+  margin-bottom: 0;
+  margin-top: 30px;
 }
 
 .githubButton{
@@ -69,6 +70,8 @@
 
 .projectButtonDiv{
   display: flex;
+  grid-area: buttons;
+  
 }
 
 @media all and (min-width: 500px) and (max-width: 800px){
@@ -85,9 +88,14 @@
     
   }
 
-  .projectContainer{
+  .projectContainerImageLeft{
     margin: 20px 80px;
     }
+
+  .projectContainerImageRight{
+    margin: 20px 80px;
+    }
+      
     
 }
 
@@ -102,9 +110,14 @@
     font-size: 32px;
   }
 
-  .projectContainer{
+  .projectContainerImageRight{
     margin: 20px 120px;
     }
+
+  .projectContainerImageLeft{
+    margin: 20px 120px;
+    }
+    
     
 }
 
@@ -119,9 +132,12 @@
     font-size: 26px;
   }
 
-  .projectContainer{
+  .projectContainerImageLeft{
     margin: 10px 3vw;
-  
+    }
+
+  .projectContainerImageRight{
+    margin: 10px 3vw;
     }
 
   .projectsGrid{

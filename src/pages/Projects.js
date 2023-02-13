@@ -58,9 +58,9 @@ function Projects(props) {
   const loaded = () => {
  
       return projects.map((project, keyProject) => ( keyProject%2===0?
-        <div className="projectContainer" key={keyProject} >
-          <h2 className="projectName">{project.name}</h2>
+        <div className="projectContainerImageLeft" key={keyProject} >
           <img className='projectImg' src={project.image} />
+          <h2 className="projectName">{project.name}</h2>
           <p className="projectDesc">{project.description}</p>
           <div className="projectButtonDiv">
             <a href={project.git} target="_blank">
@@ -73,8 +73,8 @@ function Projects(props) {
         </div>
         :
         <div className="projectContainerImageRight" key={keyProject} >
-        <h2 className="projectName">{project.name}</h2>
         <img className='projectImg' src={project.image} />
+        <h2 className="projectName">{project.name}</h2>
         <p className="projectDesc">{project.description}</p>
         <div className="projectButtonDiv">
           <a href={project.git} target="_blank">

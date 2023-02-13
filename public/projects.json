@@ -4,14 +4,14 @@
     "live": "https://capstone-chat.netlify.app",
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
-    "description" : "Millie's Messenger is a live messenging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization. To test Live Site, Login with username: Test  password: testuser"
+    "description" : "Millie's Messenger is a live messenging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization. To test live site, login with username: Test  password: testuser"
   },
   {
     "name": "FotoBook",
     "live": "https://foto-book.netlify.app/",
     "git": "https://github.com/cbowman422/project-3-fe",
     "image": "https://imgur.com/hraMAow.jpg",
-    "description" : "A reverse engineering of Instagram with login/ authorization, profiles, posting, commenting, and editing functionality. User can post Images and save them to your custom profiles collection that will display on the explore page. MERN stack. To test Live Site, Login with username: Test  password: testuser"
+    "description" : "A social media app with login/ authorization, profiles, posting, commenting, and editing functionality. User can post Images and save them to your custom profiles collection that will display on the explore page. MERN stack. To test live site, login with username: Test  password: testuser"
   },
   {
     "name": "HAPI Hour",
