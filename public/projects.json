@@ -19,13 +19,6 @@
     "git": "https://github.com/cbowman422/project-2",
     "image": "https://imgur.com/CxEXPkD.jpg",
     "description" : "An app built to help user find drink recipes from the cocktail db API. You can search by name/ phrase, search by ingredient, choose a random drink, or start with a base ingredient choice and browse. React.js and thecocktaildb API. "
-  },
-  {
-    "name": "APItizers | Hackathon",
-    "live": "https://api-tizers.netlify.app/",
-    "git": "https://github.com/JohnnyGoodrich/snacks-fe",
-    "image": "https://imgur.com/VFk3hz9.jpg",
-    "description" : "An app built to help user find meal recipes from the meal db API. This was a project for the General Assembly SEIR Hackathon where I collaborated in a team of 4. APITIZERS received 1st place in the hackathon. React.js and themealdb API."
   }
   
 ]

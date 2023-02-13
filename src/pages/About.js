@@ -7,8 +7,8 @@ const About = () => {
     <div className="aboutMargin">
     <img className="aboutImage" src="https://imgur.com/AhC28Z9.png" alt="photo"></img>
     <div className="aboutContainer">
-      <h2 className="aboutTitle"> About me 🎨 </h2>
-      <p className="aboutParagraph"> Seeking a position in full stack development, incorporating my versatile experience in software and mechanical engineering and my passion for art. Creative, highly-motivated, and adaptable professional who is able to work with stakeholders to create useful and user-friendly applications. Outside of work, I enjoy painting, creating music, and spending time outdoors. </p>
+      <h2 className="aboutTitle"> About Me 🎨 </h2>
+      <p className="aboutParagraph"> Seeking position in full stack development, incorporating my versatile experience in software and mechanical engineering and my passion for art. Creative, highly-motivated, and adaptable professional who is able to work with stakeholders to create useful and user-friendly applications. Outside of work, I enjoy painting, creating music, and spending time outdoors. </p>
       <h2 className="aboutTitle"> Technical Skills ⚡ </h2>
       <p className="aboutParagraph"> Languages - Typescript | Python | JavaScript | SQL | Mongo | JSON | EJS | HTML | CSS | MATLAB | Arduino <br />
 Databases - PostgreSQL | MongoDB <br />

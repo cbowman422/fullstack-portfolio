@@ -18,7 +18,14 @@ function Projects(props) {
   "git": "https://github.com/cbowman422/Project-0-TTT",
   "image": "https://imgur.com/P6uPNNL.jpg",
   "description" : "Play Tic Tac Toe against a computer or another player!"
-}
+},
+ {
+    "name": "APItizers | Hackathon",
+    "live": "https://api-tizers.netlify.app/",
+    "git": "https://github.com/JohnnyGoodrich/snacks-fe",
+    "image": "https://imgur.com/VFk3hz9.jpg",
+    "description" : "An app built to help user find meal recipes from the meal db API. This was a project for the General Assembly SEIR Hackathon where I collaborated in a team of 4. APITIZERS received 1st place in the hackathon. React.js and themealdb API."
+  }
 */
  // create state to hold projects
   const [projects, setProjects] = useState(null);
@@ -90,6 +97,7 @@ function Projects(props) {
 
   return <>
   <section className="projectsGrid">
+    <h2 className="projectsGridTitle">Projects 🗃 </h2>
   {projects ? loaded() : <p>Loading...</p>}
   </section>
   </>
