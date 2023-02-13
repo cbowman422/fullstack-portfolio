@@ -33,10 +33,20 @@
   position: relative;
   margin: 20px 40px;
   align-items: center ;
-  box-shadow: 2px 2px 5px gray;
   padding: 20px;
-  background-color: var(--light-color);
-  border-radius: 14px;
+  border: solid red;
+
+}
+.projectContainerImageRight{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  margin: 20px 40px;
+  align-items: center ;
+  padding: 20px;
+  border: solid blue;
+
 }
 
 .projectName{

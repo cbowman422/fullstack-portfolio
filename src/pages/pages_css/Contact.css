@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 .contactWrap{
   
   clip-path: polygon(0 15vh,100% 0,100% 100%,0 100%);
@@ -18,35 +20,47 @@
 .contactTitle{
  text-align: center;
  color: var(--light-color);
- padding-bottom: 50px;
+ font-size: 30px;
+ font-family: 'Playfair Display', serif;
+}
+
+#contactText{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
 }
 
 .contactInfo {
   font-size: 24px;
   letter-spacing: 1px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 0;
+  margin-bottom: 60px;
 }
 
 
 @media all and (max-width: 1200px) and (min-width: 900px){
   .contactInfo {
-    font-size: 30px;
+    font-size: 28px;
   }
 
-
- 
   .contactWrap{
     padding-top: 12%;
+  }
+  .contactTitle{
+    font-size: 32px;
   }
 }
 
 @media all and (min-width: 1201px){
   .contactInfo {
-    font-size: 30px;
+    font-size: 28px;
   }
-
 
   .contactWrap{
     padding-top: 8%;
   }
  
+  .contactTitle{
+    font-size: 32px;
+  }
 }
