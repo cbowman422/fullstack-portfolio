@@ -1,15 +1,17 @@
 
 .headerNav {
-  background-color: var(--brown);
-  border-radius: 6px;
-  box-shadow: 2px 2px 5px gray;
+position: fixed;
+background: rgb(218, 216, 216);
+z-index: 2;
+top: 0;
+width: 100%;
 }
 
 /* rgba(97, 46, 17, 0.8); */
 
 .headerNavLinks{
   display: flex;
-  justify-content: space-around;
+  justify-content: start;
   padding: 10px 0;
 }
 
@@ -35,7 +37,7 @@ button {
   text-decoration: none;
   padding: 10px 4px;
   border: 2px solid transparent;
-  color: var(--bg-color);
+  color: var(--secondary-color);
   transition: var(--transition);
   cursor: pointer;
   letter-spacing: 2px;

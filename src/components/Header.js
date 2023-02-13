@@ -6,7 +6,7 @@ function Header(props) {
   //inline style for the nav tag
 
   return (
-    <header className="headerNav">
+    <nav className="headerNav">
       <nav className="headerNavLinks">
       <Link className="headerLink" to="/">
           <div className="headerLinkTag" >HOME</div>
@@ -21,7 +21,7 @@ function Header(props) {
           <div className="headerLinkTag" >CONTACT</div>
         </Link>
       </nav>
-    </header>
+    </nav>
   );
 }
 
