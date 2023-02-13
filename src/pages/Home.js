@@ -5,7 +5,7 @@ function Home(props) {
   <h1 className="homeTitle">
   Christopher Bowman <span className="homeTitleSmall" > Full Stack Developer </span>
   </h1>
-  <img className="homeImage" src="https://imgur.com/AhC28Z9.png" alt="photo"></img>
+  {/* <img className="homeImage" src="https://imgur.com/AhC28Z9.png" alt="photo"></img> */}
   </ div >
 }
 
