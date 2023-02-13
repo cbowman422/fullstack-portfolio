@@ -1,7 +1,7 @@
 import "./componenets_css/Footer.css";
 
 function Footer(props) {
-  return <div className="footerBackground"> 
+  return <div id="footerBackground"> 
 
     <div className="footerContainer">
     <a className="footerLinkTag" target="_blank" href="https://www.linkedin.com/in/cbowman422/"> LinkedIn</a>

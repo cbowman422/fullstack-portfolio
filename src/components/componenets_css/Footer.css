@@ -7,7 +7,7 @@
   padding: 40px
 }
 
-.footerBackground{
+#footerBackground{
   background: var(--dark-color);
 }
 

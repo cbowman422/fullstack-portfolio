@@ -1,25 +1,60 @@
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "./componenets_css/Header.css";
 
 
 function Header(props) {
   //inline style for the nav tag
 
+
+  function scrollToHome()
+	{
+    document.getElementById('homeContainer').scrollIntoView({
+			behavior:"smooth"
+		});
+	}
+
+  function scrollToAbout()
+	{
+    document.getElementById('aboutMargin').scrollIntoView({
+			behavior:"smooth"
+      
+		});
+	}
+
+  function scrollToProject()
+	{
+    document.getElementById('projectsGridTitle').scrollIntoView({
+			behavior:"smooth"
+      
+		});
+	}
+
+  function scrollToContact()
+	{
+    document.getElementById('contactWrap').scrollIntoView({
+			behavior:"smooth"
+      
+		});
+	}
+
+ 
+
+
   return (
     <nav className="headerNav">
       <nav className="headerNavLinks">
-      <Link className="headerLink" to="/">
-          <div className="headerLinkTag" >HOME</div>
-        </Link>
-        <Link className="headerLink" to="/about">
+      <a className="headerLink" >
+          <div className="headerLinkTag" onClick={scrollToHome} >HOME</div>
+        </a>
+        <a className="headerLink" onClick={scrollToAbout}>
           <div className="headerLinkTag" >ABOUT ME</div>
-        </Link>
-        <Link className="headerLink" to="/projects">
+        </a>
+        <a className="headerLink" onClick={scrollToProject} >
           <div className="headerLinkTag" >PROJECTS</div>
-        </Link>
-        <Link className="headerLink" to="/contact">
+        </a>
+        <a className="headerLink" onClick={scrollToContact}>
           <div className="headerLinkTag" >CONTACT</div>
-        </Link>
+        </a>
       </nav>
     </nav>
   );

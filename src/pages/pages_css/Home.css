@@ -3,7 +3,7 @@
 
 
 
-.homeContainer {
+#homeContainer {
 margin: 20px 40px;
 display: flex;
 flex-direction: column;

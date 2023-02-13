@@ -4,7 +4,7 @@ import "./pages_css/About.css"
 
 const About = () => {
   return (
-    <div className="aboutMargin">
+    <div id="aboutMargin">
     <img className="aboutImage" src="https://imgur.com/AhC28Z9.png" alt="photo"></img>
     <div className="aboutContainer">
       <h2 className="aboutTitle"> About Me 🎨 </h2>

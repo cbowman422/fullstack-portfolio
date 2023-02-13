@@ -49,17 +49,6 @@ function Projects(props) {
     getProjectsData()
   },[]);
 
-// TODO this is the scroll up function that was removed
-  // // Function to scroll down in Home screen from click.
-	// function scrollToList()
-	// {
-	// 	window.scrollTo(
-	// 	{
-	// 		top: 10,
-	// 		behavior:"smooth"
-	// 	})
-	// }
-
 
   // define a function that will return the JSX needed once we get the data
   const loaded = () => {
@@ -100,8 +89,8 @@ function Projects(props) {
   };
 
   return <>
-  <section className="projectsGrid">
-    <h2 className="projectsGridTitle">Projects </h2>
+    <h2 id="projectsGridTitle">Projects </h2>
+  <section id="projectsGrid">
   {projects ? loaded() : <p>Loading...</p>}
   </section>
   </>
