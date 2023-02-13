@@ -13,7 +13,7 @@ const About = () => {
       <p className="aboutParagraph"> Languages - Typescript | Python | JavaScript | SQL | Mongo | JSON | EJS | HTML | CSS | MATLAB | Arduino <br />
 Databases - PostgreSQL | MongoDB <br />
 Libraries and Frameworks - React.js | Express.js | Django | Flask <br />
-Softwares - ABAQUS | Altair HyperWorks | ANSYS | Fluent | SolidWorks | Mathcad | Microsoft Office <br />
+Softwares - ABAQUS | Altair HyperWorks | ANSYS | Fluent | SolidWorks | Mathcad <br />
 Interpersonal Skills - Communication Skills | Collaboration  </p>
     </div>
     </div>

@@ -7,6 +7,10 @@
   margin: 40px 40px 40px 40px;
 }
 
+.footerBackground{
+  background-image: linear-gradient(135deg, rgb(107, 64, 18) 0%, rgb(171, 96, 16) 100%);
+}
+
 .footerLinkTag{
   text-decoration: none;
   font-family: 'Playfair Display', serif;
