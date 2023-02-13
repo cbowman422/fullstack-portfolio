@@ -30,6 +30,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  position: relative;
   margin: 20px 40px;
   align-items: center ;
   box-shadow: 2px 2px 5px gray;
@@ -100,24 +101,21 @@
 @media all and (min-width: 1201px){
 
   .projectImg {
-    width: 40%;
-  
+    width: 70%;
+    height: 70%;
   }
+
   .projectName{
     font-size: 26px;
   }
 
   .projectContainer{
-    margin: 10px 50px;
-    border: solid red;
-    
+    margin: 10px 3vw;
+  
     }
 
   .projectsGrid{
     border: solid green;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
     padding: 0 138px;
   }
   .projectDesc{

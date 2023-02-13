@@ -25,5 +25,7 @@
   .contactContainer {
     padding: 60px;
   }
-  
+  .contactMargin{
+    border: solid orange;
+  }
 }

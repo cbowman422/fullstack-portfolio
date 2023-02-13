@@ -58,7 +58,7 @@ function Projects(props) {
   const loaded = () => {
     return projects.map((project, keyProject) => (
       <div className="projectContainer" key={keyProject} >
-        <h1 className="projectName">{project.name}</h1>
+        <h2 className="projectName">{project.name}</h2>
         <img className='projectImg' src={project.image} />
         <p className="projectDesc">{project.description}</p>
         <div className="projectButtonDiv">
@@ -75,7 +75,7 @@ function Projects(props) {
 
   return <>
   <section className="projectsGrid">
-  {projects ? loaded() : <h1>Loading...</h1>}
+  {projects ? loaded() : <p>Loading...</p>}
   </section>
   </>
 }
