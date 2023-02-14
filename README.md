@@ -14,4 +14,5 @@ A full stack portfolio built with a React.js app. Intended to display full stack
 - JSON
 - HTML
 - CSS
+- Grid
 - Flexbox
