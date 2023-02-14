@@ -20,7 +20,7 @@
     "projectDesc" 
     "buttons ";
   place-items: center;
-  margin-top: 100px;
+  margin-top: 60px;
 }
 
 .projectContainerImageRight{
@@ -34,7 +34,7 @@
     "projectDesc" 
     "buttons ";
   place-items: center;
-  margin-top: 100px;
+  margin-top: 60px;
 }
 
 .projectImg {
@@ -95,7 +95,7 @@
 #projectsGridTitle{
   font-family: 'Playfair Display', serif;
   text-align: center;
-  margin: 20px auto 0 auto;
+  margin: 10px auto 0 auto;
   font-size: 26px;
   border-bottom: 1.8px solid rgb(171, 96, 16);
   width: 150px;
@@ -116,11 +116,11 @@
   }
 
   .projectContainerImageLeft{
-    margin: 100px 10px;
+    margin: 60px 10px;
     }
 
   .projectContainerImageRight{
-    margin: 100px 10px;
+    margin: 60px 10px;
     }
       
     
@@ -138,11 +138,11 @@
   }
 
   .projectContainerImageRight{
-    margin: 100px 10px;
+    margin: 60px 10px;
     }
 
   .projectContainerImageLeft{
-    margin: 100px 10px;
+    margin: 60px 10px;
     }
     
     #projectsGridTitle{
@@ -176,7 +176,7 @@
     "image projectDesc "
     "image buttons";
     padding-right: 60px;
-    margin-top: 80px;
+    margin-top: 60px;
     }
 
   .projectContainerImageRight{
@@ -187,7 +187,7 @@
     "projectDesc image"
     "buttons image";
     padding-left: 60px;
-    margin-top: 80px;
+    margin-top: 60px;
     }
 
   
