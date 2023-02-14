@@ -89,7 +89,10 @@ function Projects(props) {
   };
 
   return <>
-    <h2 id="projectsGridTitle">Projects </h2>
+  <section id="projectScroll">
+    <h2> &nbsp; </h2>
+  </section>
+    <h2 id="projectsGridTitle">Projects</h2>
   <section id="projectsGrid">
   {projects ? loaded() : <p>Loading...</p>}
   </section>

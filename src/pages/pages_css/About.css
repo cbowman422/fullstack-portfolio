@@ -30,7 +30,14 @@
   margin: 20px 0px 0px 24vw;
   border-radius: 4px;
   box-shadow: 2px 2px 10px rgb(38, 32, 26);
-  }
+  transition: var(--transition);
+  filter: grayscale(86%);
+}
+
+.aboutImage:hover{
+  filter: grayscale(20%);
+}
+
 
 @media all and (min-width: 900px){
   .aboutTitle {
@@ -43,7 +50,7 @@
 
   .aboutContainer {
     width : 80%;
-    margin: 60px auto 10px auto;
+    margin: 80px auto 10px auto;
    }
 
    #aboutMargin {
@@ -54,7 +61,7 @@
    }
   
    .aboutImage{
-    margin: 28vh 0 0 10vw;
+    margin: 210px 0 0 10vw;
     width: 20vw;
    }
     

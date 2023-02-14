@@ -5,6 +5,10 @@
   margin-bottom: 20px;
 }
 
+#projectScroll{
+  padding: 6px;
+}
+
 .projectContainerImageLeft{
   display: grid;
   padding: 10px;
@@ -50,7 +54,6 @@
 
 .projectImgCont:hover{
   filter: grayscale(90%);
-  
 }
 
 .projectDesc{
@@ -91,8 +94,11 @@
 #projectsGridTitle{
   font-family: 'Playfair Display', serif;
   text-align: center;
-  margin: 20px 0 40px 0;
+  margin: 20px auto 40px auto;
   font-size: 26px;
+  border-bottom: 1.8px solid rgb(171, 96, 16);
+  width: 150px;
+  
 }
 
 @media all and (min-width: 500px) and (max-width: 900px){

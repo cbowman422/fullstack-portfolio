@@ -10,15 +10,15 @@
     "name": "FotoBook",
     "live": "https://foto-book.netlify.app/",
     "git": "https://github.com/cbowman422/project-3-fe",
-    "image": "https://imgur.com/hraMAow.jpg",
-    "description" : "A social media app with login/ authorization, profiles, posting, commenting, and editing functionality. User can post Images and save them to your custom profiles collection that will display on the explore page. MERN stack. To test live site, login with username: Test  password: testuser"
+    "image": "https://imgur.com/gzUlHdE.jpg",
+    "description" : "A social media MERN app with login/ authorization, profiles, posting, commenting, and editing functionality. User can post images and save images to a profile that will display on the explore page to other users. To test live site, login with username: Test  password: testuser"
   },
   {
     "name": "HAPI Hour",
     "live": "https://hapi-hour.netlify.app/",
     "git": "https://github.com/cbowman422/project-2",
     "image": "https://imgur.com/CxEXPkD.jpg",
-    "description" : "An app built to help user find drink recipes from the cocktail db API. You can search by name/ phrase, search by ingredient, choose a random drink, or start with a base ingredient choice and browse. React.js and thecocktaildb API. "
+    "description" : "An app built with React.js to help users find drink recipes from thecocktaildb API. User can search by name/ phrase, search by ingredient, choose a random drink, or start with a base ingredient choice and browse. "
   }
   
 ]

@@ -26,9 +26,9 @@ function Contact(props) {
   // define a function that will return the JSX needed once we get the data
   const loaded = () => (
     <div id="contactWrap">
-    <h2 className="contactTitle"> Contact</h2>
+    <h2 className="contactTitle"> Contact </h2>
     <div className="contactContainer">
-      <h2 id="contactText">For questions and collaborations email me at : </h2>
+      <h2 id="contactText">For questions and collaborations : </h2>
     </div>
     <div className="contactContainer">
       <h2 className="contactInfo">{contact.email}</h2>

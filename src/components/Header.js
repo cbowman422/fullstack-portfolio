@@ -23,7 +23,7 @@ function Header(props) {
 
   function scrollToProject()
 	{
-    document.getElementById('projectsGridTitle').scrollIntoView({
+    document.getElementById('projectScroll').scrollIntoView({
 			behavior:"smooth"
       
 		});
