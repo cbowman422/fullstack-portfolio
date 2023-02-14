@@ -20,7 +20,7 @@
     "projectDesc" 
     "buttons ";
   place-items: center;
-  margin-top: 10px;
+  margin-top: 100px;
 }
 
 .projectContainerImageRight{
@@ -34,7 +34,7 @@
     "projectDesc" 
     "buttons ";
   place-items: center;
-  margin-top: 10px;
+  margin-top: 100px;
 }
 
 .projectImg {
@@ -70,7 +70,7 @@
   font-family: 'Playfair Display', serif;
   font-size: 22px;
   margin-bottom: 0;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .githubButton{
@@ -116,11 +116,11 @@
   }
 
   .projectContainerImageLeft{
-    margin: 26px 10px;
+    margin: 100px 10px;
     }
 
   .projectContainerImageRight{
-    margin: 26px 10px;
+    margin: 100px 10px;
     }
       
     
@@ -138,11 +138,11 @@
   }
 
   .projectContainerImageRight{
-    margin: 20px 10px;
+    margin: 100px 10px;
     }
 
   .projectContainerImageLeft{
-    margin: 20px 10px;
+    margin: 100px 10px;
     }
     
     #projectsGridTitle{
@@ -176,7 +176,7 @@
     "image projectDesc "
     "image buttons";
     padding-right: 60px;
-    margin-top: 10px;
+    margin-top: 80px;
     }
 
   .projectContainerImageRight{
@@ -187,7 +187,7 @@
     "projectDesc image"
     "buttons image";
     padding-left: 60px;
-    margin-top: 10px;
+    margin-top: 80px;
     }
 
   
