@@ -1,4 +1,4 @@
-# Christopher Bowman Portfolio
+# Christopher Bowman Full Stack Portfolio
 
 ## Link to Deployment
 
