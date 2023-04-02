@@ -1,17 +1,24 @@
 [
   {
+    "name": "Scott's Landscaping",
+    "live": "scottslandscaping.org",
+    "git": "https://github.com/cbowman422/scottslandscaping",
+    "image": "https://imgur.com/CW7oxI5.jpg",
+    "description" : "Independent consulting project. Responsible for developing/ designing Scott's Landcaping client and server applications."
+  },
+  {
+    "name": "Money Mania",
+    "live": "https://moneymania.netlify.app/login",
+    "git": "https://github.com/Cazier92/Money-Mania-Frontend",
+    "image": "https://imgur.com/MqzOqn8.jpg",
+    "description" : "Money Mania is an application designed for high school students to learn about finance. For the GA 2023 Hackathon and placing runner up. Worked on a team of 3 UX/UI designers and 4 software developers. Responsible for the back-end server and also developed 3 pages for the frontend."
+  },
+  {
     "name": "Millie's Messenger",
     "live": "https://capstone-chat.netlify.app",
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
     "description" : "Millie's Messenger is a live messenging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization. To test live site, login with username: Test  password: testuser"
-  },
-  {
-    "name": "FotoBook",
-    "live": "https://foto-book.netlify.app/",
-    "git": "https://github.com/cbowman422/project-3-fe",
-    "image": "https://imgur.com/gzUlHdE.jpg",
-    "description" : "A social media MERN app with login/ authorization, profiles, posting, commenting, and editing functionality. User can post images and save images to a profile that will display on the explore page to other users. To test live site, login with username: Test  password: testuser"
   },
   {
     "name": "HAPI Hour",
