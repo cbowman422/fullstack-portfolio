@@ -1,7 +1,7 @@
 [
   {
     "name": "Scott's Landscaping",
-    "live": "scottslandscaping.org",
+    "live": "http://scottslandscaping.org/index.html",
     "git": "https://github.com/cbowman422/scottslandscaping",
     "image": "https://imgur.com/CW7oxI5.jpg",
     "description" : "Independent consulting project. Responsible for developing/ designing Scott's Landcaping client server. [Live site linked to old page, while under developement]"
