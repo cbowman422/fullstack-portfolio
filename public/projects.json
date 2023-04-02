@@ -9,9 +9,9 @@
   {
     "name": "Money Mania",
     "live": "https://moneymania.netlify.app/login",
-    "git": "https://github.com/Cazier92/Money-Mania-Frontend",
+    "git": "https://github.com/cbowman422/Money-Mania-Frontend",
     "image": "https://imgur.com/MqzOqn8.jpg",
-    "description" : "Money Mania is an application designed for high school students to learn about finance. For the GA 2023 Hackathon and placing runner up. Worked on a team of 3 UX/UI designers and 4 software developers. Responsible for the back-end server and also developed 3 pages for the frontend."
+    "description" : "Money Mania is an application designed for high school students to learn about finance. For the GA 2023 Hackathon and placing runner up. Worked on a team of 3 UX/UI designers and 4 software developers. Responsible for the back-end server and also developed 3 pages for the frontend. To test live site, login with email: 1234@email.com  password: 1234"
   },
   {
     "name": "Millie's Messenger",
