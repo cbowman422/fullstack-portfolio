@@ -11,7 +11,7 @@ width: 100%;
 
 .headerNavLinks{
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   padding: 10px 0;
 }
 
