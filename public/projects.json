@@ -18,7 +18,7 @@
     "live": "https://capstone-chat.netlify.app",
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
-    "description" : "Millie's Messenger is a live messenging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization."
+    "description" : "Millie's Messenger is a live messaging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization."
   },
   {
     "name": "HAPI Hour",
