@@ -11,14 +11,14 @@
     "live": "https://moneymania.netlify.app/login",
     "git": "https://github.com/cbowman422/Money-Mania-Frontend",
     "image": "https://imgur.com/MqzOqn8.jpg",
-    "description" : "Money Mania is an application designed for high school students to learn about finance. For the GA 2023 Hackathon and placing runner up. Worked on a team of 3 UX/UI designers and 4 software developers. Responsible for the back-end server and also developed 3 pages for the frontend. To test live site, login with email: 1234@email.com  password: 1234"
+    "description" : "Money Mania is an application designed for high school students to learn about finance. For the GA 2023 Hackathon and placing runner up. Worked on a team of 3 UX/UI designers and 4 software developers. Responsible for the back-end server and also developed 3 pages for the frontend."
   },
   {
     "name": "Millie's Messenger",
     "live": "https://capstone-chat.netlify.app",
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
-    "description" : "Millie's Messenger is a live messenging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization. To test live site, login with username: Test  password: testuser"
+    "description" : "Millie's Messenger is a live messenging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization."
   },
   {
     "name": "HAPI Hour",
