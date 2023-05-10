@@ -1,6 +1,6 @@
 import "./componenets_css/Footer.css";
 
-import resume from '../Pdf/Bowman_Fullstack_Resume.pdf';
+import resume from '../Pdf/Bowman_full_resume.pdf';
 
 function Footer(props) {
   return <div id="footerBackground"> 
