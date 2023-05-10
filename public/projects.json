@@ -4,7 +4,7 @@
     "live": "http://scottslandscaping.org/index.html",
     "git": "https://github.com/cbowman422/scottslandscaping",
     "image": "https://imgur.com/ZQrGZEA.jpg",
-    "description" : "Independent consulting project. Responsible for developing/ designing Scott's Landcaping client server. [Live site linked to old page, while under developement]"
+    "description" : "Scott's Landscaping, Inc. is a website built with MongoDB, Express.js, React.js and Node. Responsible for UX/UI design decisions as well as development. Incorporated responsiveness for mobile devices. [Live site linked to old page, while under developement]"
   },
   {
     "name": "Money Mania",
