@@ -35,6 +35,8 @@
   font-family: 'Open Sans', sans-serif;
   margin-top: 0;
   margin-bottom: 60px;
+  color: var(--light-color);
+  text-decoration: none;
 }
 
 

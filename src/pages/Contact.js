@@ -31,7 +31,7 @@ function Contact(props) {
       <h2 id="contactText">For questions and collaborations : </h2>
     </div>
     <div className="contactContainer">
-      <h2 className="contactInfo">{contact.email}</h2>
+    <a className="contactInfo" href = "mailto: cbowman.se@gmail.com">{contact.email}</a>
     </div>
     </div>
   );
