@@ -11,8 +11,8 @@ const About = () => {
       <p className="aboutParagraph">Software developer specializing in full stack JavaScript technologies. Obtained a certificate from General Assembly’s Software Engineering program. Worked on multiple teams to develop full stack applications. Prior to software development I have experience in mechanical engineering. Looking to leverage my unique background and knowledge in software development to ensure the delivery of quality products.</p>
       <h2 className="aboutTitle"> Technical Skills ⚡ </h2>
       <p className="aboutParagraph"> Languages - JavaScript | Python | SQL | Mongo | JSON | EJS | HTML | CSS | MATLAB <br />
-Databases - PostgreSQL | MongoDB <br />
 Libraries and Frameworks - React.js | Express.js | Django | Flask </p>
+Databases - PostgreSQL | MongoDB <br />
     </div>
     </div>
   )
