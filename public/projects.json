@@ -1,10 +1,10 @@
 [
   {
     "name": "Scott's Landscaping, Inc",
-    "live": "http://scottslandscaping.org/index.html",
+    "live": "https://scottslandscaping.vercel.app/",
     "git": "https://github.com/cbowman422/scottslandscaping",
     "image": "https://imgur.com/ZQrGZEA.jpg",
-    "description" : "Scott's Landscaping, Inc. is a website built with MongoDB, Express.js, React.js and Node. Responsible for UX/UI design decisions as well as development. Incorporated responsiveness for mobile devices. [Live site linked to old page, while under developement]"
+    "description" : "Scott's Landscaping, Inc. is a website built with MongoDB, Express.js, React.js and Node. Responsible for UX/UI design decisions as well as development. Incorporated responsiveness for mobile devices."
   },
   {
     "name": "Money Mania",
