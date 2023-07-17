@@ -1,10 +1,10 @@
 [
   {
     "name": "Scott's Landscaping, Inc",
-    "live": "https://scottslandscaping.vercel.app/",
+    "live": "https://scottslandscaping.org/",
     "git": "https://github.com/cbowman422/scottslandscaping",
     "image": "https://imgur.com/ZQrGZEA.jpg",
-    "description" : "Scott's Landscaping, Inc. is a website built with MongoDB, Express.js, React.js and Node. Responsible for UX/UI design decisions as well as development. Incorporated responsiveness for mobile devices."
+    "description" : "Scott's Landscaping, Inc. is a website built with MongoDB, Express.js, React.js and Node. Enhanced user experience and user interface (UX/UI) design decisions, resulting in 30% increase in website engagement and 20% decrease in bounce rate. Developed responsive web applications, improving website accessibility across devices and increased user retention rate by 15%. Successfully managed the transfer of domain registrar, email provider transfer, and updated DNS records."
   },
   {
     "name": "Money Mania",
