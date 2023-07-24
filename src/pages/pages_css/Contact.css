@@ -3,7 +3,7 @@
 #contactWrap{
   
   clip-path: polygon(0 15vh,100% 0,100% 100%,0 100%);
-  background-image: linear-gradient(135deg, rgb(107, 64, 18) 0%, rgb(171, 96, 16) 100%);
+  background-image: linear-gradient(200deg, rgb(31, 69, 119) 0%, rgb(49, 68, 120) 100%);
   padding-top: 18%;
   padding-bottom: 2%;
 }
