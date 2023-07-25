@@ -1,7 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Gaegu:wght@300;700&family=Playfair+Display:wght@600&display=swap');
 
 
+.animation{
+  list-style: none;
+  animation: titleAnimation 12s linear infinite;
+}
 
+@keyframes titleAnimation{
+  0%{
+    transform: translateY(0px);
+  }
+  14%{
+    transform: translateY(0px);
+  }
+  28%{
+    transform: translateY(-30px);
+  }
+  52%{
+    transform: translateY(-30px);
+  }
+  66%{
+    transform: translateY(-60px);
+  }
+  80%{
+    transform: translateY(-60px);
+  }
+  95%{
+    transform: translateY(-90px);
+  }
+  100%{
+    transform: translateY(-90px);
+  }
+}
 
 #homeContainer {
 margin: 20px 40px;
@@ -23,6 +53,9 @@ font-family: 'Playfair Display', serif;
   margin: 10px 10px 20px 10px;
   font-family: 'Playfair Display', serif;
   border-bottom: 1.8px solid rgb(49, 68, 120);
+  /* border: solid green; */
+  height: 36px;
+  overflow: hidden;
 }
 
 /* .homeImage{
@@ -60,6 +93,34 @@ box-shadow: 2px 2px 5px gray;
 
     .homeTitleSmall {
       font-size: 26px;
+      height: 40px;
+    }
+
+    @keyframes titleAnimation{
+      0%{
+        transform: translateY(0px);
+      }
+      14%{
+        transform: translateY(0px);
+      }
+      28%{
+        transform: translateY(-35px);
+      }
+      52%{
+        transform: translateY(-35px);
+      }
+      66%{
+        transform: translateY(-70px);
+      }
+      80%{
+        transform: translateY(-70px);
+      }
+      95%{
+        transform: translateY(-105px);
+      }
+      100%{
+        transform: translateY(-105px);
+      }
     }
 
 }
@@ -77,6 +138,34 @@ box-shadow: 2px 2px 5px gray;
 
     .homeTitleSmall {
       font-size: 26px;
+      height: 40px;
+    }
+
+    @keyframes titleAnimation{
+      0%{
+        transform: translateY(0px);
+      }
+      14%{
+        transform: translateY(0px);
+      }
+      28%{
+        transform: translateY(-35px);
+      }
+      52%{
+        transform: translateY(-35px);
+      }
+      66%{
+        transform: translateY(-70px);
+      }
+      80%{
+        transform: translateY(-70px);
+      }
+      95%{
+        transform: translateY(-105px);
+      }
+      100%{
+        transform: translateY(-105px);
+      }
     }
 
 
