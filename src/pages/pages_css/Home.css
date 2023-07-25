@@ -58,18 +58,10 @@ font-family: 'Playfair Display', serif;
   overflow: hidden;
 }
 
-/* .homeImage{
-width: 60vw;
-margin: 10px;
-border-radius: 14px;
-box-shadow: 2px 2px 5px gray;
-} */
 
 @media all and (min-width: 500px) and (max-width: 600px){
 
-  /* .homeImage{
-    width: 45vw;
-    } */
+
   
   .homeTitle {
     font-size: 30px;
@@ -83,10 +75,7 @@ box-shadow: 2px 2px 5px gray;
 
 @media all and (min-width: 601px) and (max-width: 800px){
 
-  /* .homeImage{
-    width: 40vw;
-    } */
-  
+
   .homeTitle {
     font-size: 36px;
     }
@@ -128,10 +117,10 @@ box-shadow: 2px 2px 5px gray;
 
 @media all and (min-width: 801px){
 
-  /* .homeImage{
-    width: 310px;
-    } */
-
+  #homeContainer{
+    flex-direction: row;
+  }
+  
   .homeTitle {
     font-size: 36px;
     }
@@ -139,6 +128,7 @@ box-shadow: 2px 2px 5px gray;
     .homeTitleSmall {
       font-size: 26px;
       height: 40px;
+      transform: translateY(12px);
     }
 
     @keyframes titleAnimation{
