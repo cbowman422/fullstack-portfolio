@@ -3,29 +3,29 @@
 
 .animation{
   list-style: none;
-  animation: titleAnimation 12s linear infinite;
+  animation: titleAnimation 10s linear infinite;
 }
 
 @keyframes titleAnimation{
   0%{
     transform: translateY(0px);
   }
-  14%{
+  16%{
     transform: translateY(0px);
   }
-  28%{
+  26%{
     transform: translateY(-30px);
   }
-  52%{
+  54%{
     transform: translateY(-30px);
   }
-  66%{
+  64%{
     transform: translateY(-60px);
   }
-  80%{
+  82%{
     transform: translateY(-60px);
   }
-  95%{
+  93%{
     transform: translateY(-90px);
   }
   100%{
@@ -89,22 +89,22 @@ font-family: 'Playfair Display', serif;
       0%{
         transform: translateY(0px);
       }
-      14%{
+      16%{
         transform: translateY(0px);
       }
-      28%{
+      26%{
         transform: translateY(-35px);
       }
-      52%{
+      54%{
         transform: translateY(-35px);
       }
-      66%{
+      64%{
         transform: translateY(-70px);
       }
-      80%{
+      82%{
         transform: translateY(-70px);
       }
-      95%{
+      93%{
         transform: translateY(-105px);
       }
       100%{
@@ -135,22 +135,22 @@ font-family: 'Playfair Display', serif;
       0%{
         transform: translateY(0px);
       }
-      14%{
+      16%{
         transform: translateY(0px);
       }
-      28%{
+      26%{
         transform: translateY(-35px);
       }
-      52%{
+      54%{
         transform: translateY(-35px);
       }
-      66%{
+      64%{
         transform: translateY(-70px);
       }
-      80%{
+      82%{
         transform: translateY(-70px);
       }
-      95%{
+      93%{
         transform: translateY(-105px);
       }
       100%{
