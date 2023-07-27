@@ -3,7 +3,7 @@
 
 .animation{
   list-style: none;
-  animation: titleAnimation 10s linear infinite;
+  animation: titleAnimation 6s linear infinite;
 }
 
 @keyframes titleAnimation{
