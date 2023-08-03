@@ -14,11 +14,11 @@
     "description" : "Money Mania is an application designed for high school students to learn about finance. Built using MongoDB, Express, React.js and Node.js. For the GA 2023 Hackathon and placing runner up. Worked on a team of 3 UX/UI designers and 4 software developers. Responsible for the back-end server and also developed 3 pages for the frontend."
   },
   {
-    "name": "Millie's Messenger",
+    "name": "Messenger",
     "live": "https://capstone-chat.netlify.app",
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
-    "description" : "Millie's Messenger is a live messaging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization."
+    "description" : "Messenger is a live messaging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization."
   },
   {
     "name": "HAPI Hour",

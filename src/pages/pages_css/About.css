@@ -23,6 +23,7 @@
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   color: var(--light-color);
+  text-align: center;
 }
 
 .aboutImage{
@@ -38,6 +39,10 @@
   filter: grayscale(50%);
 }
 
+.aboutSkillLogo{
+  width: 90px;
+}
+
 
 @media all and (min-width: 900px){
   .aboutTitle {
@@ -49,7 +54,7 @@
   }
 
   .aboutContainer {
-    width : 80%;
+    width : 75%;
     margin: 80px auto 10px auto;
    }
 
@@ -61,8 +66,8 @@
    }
   
    .aboutImage{
-    margin: 210px 0 0 10vw;
-    width: 20vw;
+    margin: 150px 0 0 10vw;
+    width: 25vw;
    }
     
 }
