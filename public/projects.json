@@ -11,21 +11,21 @@
     "live": "https://moneymania.netlify.app/login",
     "git": "https://github.com/cbowman422/Money-Mania-Frontend",
     "image": "https://imgur.com/MqzOqn8.jpg",
-    "description" : "Money Mania is an application designed for high school students to learn about finance. Built using MongoDB, Express, React.js and Node.js. For the GA 2023 Hackathon and placing runner up. Worked on a team of 3 UX/UI designers and 4 software developers. Responsible for the back-end server and also developed 3 pages for the frontend."
+    "description" : "Money Mania is a MERN application geared towards student finance education, that placed runner up in the GA 2023 Gamifying Hackathon. Partnered with a team of 3 UX/UI designers and 4 software engineers to accomplish MVP in a 4 day sprint. Responsible for the Node.js, Express, and MongoDB back end server as well as 3 React.js front end pages."
   },
   {
     "name": "Messenger",
     "live": "https://capstone-chat.netlify.app",
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
-    "description" : "Messenger is a live messaging app that can be used as a template for incorporating Socket.IO, MongoDB Change Streams, Express, React.js, Node.js and JSON Web Tokens/ Bearer Authorization."
+    "description" : "Messenger is a dynamic MERN application employing Socket.IO for real time chat room messaging. Responsible for integrating a new library, Socket.IO, into a MERN application with authorization in order to accomplish MVP in a 1 week sprint."
   },
   {
     "name": "HAPI Hour",
     "live": "https://hapi-hour.netlify.app/",
     "git": "https://github.com/cbowman422/project-2",
     "image": "https://imgur.com/CxEXPkD.jpg",
-    "description" : "An app built with React.js to help users find drink recipes from thecocktaildb API. User can search by name/ phrase, search by ingredient, choose a random drink, or start with a base ingredient choice and browse. "
+    "description" : "HAPI Hour is a front end web application built with React.js to navigate objects from a 3rd party API, thecocktaildb. Coordinated with another software engineer to accomplish MVP in a 1 week sprint and mainly responsible for developing the React components"
   }
   
 ]
