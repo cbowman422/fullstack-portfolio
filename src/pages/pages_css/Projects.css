@@ -54,7 +54,7 @@
 }
 
 .projectImgCont:hover{
-  filter: grayscale(90%);
+  filter: grayscale(30%);
 }
 
 .projectDesc{

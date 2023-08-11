@@ -37,8 +37,18 @@
 }
 
 .aboutImage:hover{
-  filter: grayscale(50%);
+  filter: grayscale(30%);
 }
+
+.aboutImages{
+text-align: center;
+}
+
+.aboutImages img{
+  height: 40px;
+  padding: 4px;
+  }
+
 
 .aboutSkillLogo{
   width: 90px;

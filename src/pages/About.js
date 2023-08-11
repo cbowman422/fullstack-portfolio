@@ -10,9 +10,27 @@ const About = () => {
       <h2 className="aboutTitle"> About Me </h2>
       <p className="aboutParagraph">Motivated software engineer with a strong focus on full stack JavaScript technologies. Contributed to multiple teams, collectively designing and developing full stack applications. Prior to software development I gained valuable experience in mechanical engineering. Committed to continuous learning and staying up-to-date with industry trends. Seeking to leverage my experience in software engineering to drive innovation and contribute to impactful projects.</p>
       <h2 className="aboutTitle"> Technical Skills </h2>
-      <p className="aboutParagraph"> Languages - JavaScript | Python | SQL | Mongo | JSON | EJS | HTML | CSS <br />
-        Libraries and Frameworks - React.js | Next.js | Express.js | Django | Flask <br />
-        Databases - AWS | PostgreSQL | MongoDB </p>
+       
+       <div className="aboutImages">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=000000&style=for-the-badge" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=ffffff&style=for-the-badge" alt="Python"/>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/-JSON-000000?logo=JSON&logoColor=ffffff&style=for-the-badge" alt="JSON"/>
+        <br/>
+        <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=React&logoColor=000000&style=for-the-badge" alt="React"/>
+        <img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=ffffff&style=for-the-badge" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/-Express.js-000000?logo=Express&logoColor=ffffff&style=for-the-badge" alt="Express.js"/>
+        <img src="https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=ffffff&style=for-the-badge" alt="Django"/>
+        <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=ffffff&style=for-the-badge" alt="Flask"/>
+        <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=ffffff&style=for-the-badge" alt="Figma"/>
+        <br/>
+        <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?logo=Amazon AWS&logoColor=ffffff&style=for-the-badge" alt="Amazon AWS"/>
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=ffffff&style=for-the-badge" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=ffffff&style=for-the-badge" alt="MongoDB"/>
+       </div>
+
+
     </div>
     </div>
   )
