@@ -11,7 +11,7 @@
     "live": "https://moneymania.netlify.app/login",
     "git": "https://github.com/cbowman422/Money-Mania-Frontend",
     "image": "https://imgur.com/MqzOqn8.jpg",
-    "description" : "Money Mania is a MERN application geared towards student finance education, that placed runner up in the GA 2023 Gamifying Hackathon. Partnered with a team of 3 UX/UI designers and 4 software engineers to accomplish MVP in a 4 day sprint. Responsible for the Node.js, Express, and MongoDB back end server as well as 3 React.js front end pages."
+    "description" : "Money Mania is a MERN application geared towards student finance education, that placed runner up in the GA 2023 Gamifying Hackathon. Led a team of 3 UX/UI designers and 4 software engineers to accomplish MVP in a 4-day sprint. Designed the software architecture to fit the requisites of the React framework. Responsible for the Node.js, Express, and MongoDB RESTful back end server and rebuilding 3 React.js front end pages."
   },
   {
     "name": "Messenger",
@@ -25,7 +25,7 @@
     "live": "https://hapi-hour.netlify.app/",
     "git": "https://github.com/cbowman422/project-2",
     "image": "https://imgur.com/CxEXPkD.jpg",
-    "description" : "HAPI Hour is a front end web application built with React.js to navigate objects from a 3rd party API, thecocktaildb. Coordinated with another software engineer to accomplish MVP in a 1 week sprint and mainly responsible for developing the React components"
+    "description" : "HAPI Hour is a front end web application built with React.js to navigate objects from a 3rd party API (thecocktaildb.com). Coordinated with another software engineer to accomplish MVP in a 1 week sprint and mainly responsible for developing the React components"
   }
   
 ]
