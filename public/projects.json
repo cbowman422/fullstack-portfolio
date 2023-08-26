@@ -25,7 +25,7 @@
     "live": "https://hapi-hour.netlify.app/",
     "git": "https://github.com/cbowman422/project-2",
     "image": "https://imgur.com/CxEXPkD.jpg",
-    "description" : "HAPI Hour is a front end web application built with React.js to navigate objects from a 3rd party API (thecocktaildb.com). Coordinated with another software engineer to accomplish MVP in a 1 week sprint and mainly responsible for developing the React components"
+    "description" : "HAPI Hour is a front end web application built with React.js to navigate objects from a 3rd party API (thecocktaildb.com). Coordinated with another software engineer to accomplish MVP in a 1 week sprint and mainly responsible for developing the React components."
   }
   
 ]

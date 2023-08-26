@@ -1,6 +1,8 @@
 import React from 'react'
 import "./pages_css/About.css"
 
+// for logos
+// https://dev.to/tolentinoel/customized-tech-stack-badges-for-your-profile-1dpg
 
 const About = () => {
   return (
@@ -17,6 +19,8 @@ const About = () => {
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge" alt="HTML5"/>
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge" alt="CSS3"/>
         <img src="https://img.shields.io/badge/-JSON-000000?logo=JSON&logoColor=ffffff&style=for-the-badge" alt="JSON"/>
+        <img src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=ffffff&style=for-the-badge" alt="WordPress"/>
+        <img src="https://img.shields.io/badge/-Webflow-4353FF?logo=Webflow&logoColor=ffffff&style=for-the-badge" alt="Webflow"/>
         <br/>
         <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=React&logoColor=000000&style=for-the-badge" alt="React"/>
         <img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=ffffff&style=for-the-badge" alt="Next.js"/>
