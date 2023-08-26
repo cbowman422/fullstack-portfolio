@@ -73,7 +73,7 @@ text-align: center;
    }
 }
 
-@media all and (min-width: 1000px) and (max-width: 1199px){
+@media all and (min-width: 1000px) and (max-width: 1299px){
   .aboutTitle {
     font-size: 32px;
     }
@@ -101,7 +101,7 @@ text-align: center;
     
 }
 
-@media all and (min-width: 1200px){
+@media all and (min-width: 1300px){
   .aboutTitle {
     font-size: 32px;
     }
