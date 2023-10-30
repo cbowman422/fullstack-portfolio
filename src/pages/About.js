@@ -10,7 +10,7 @@ const About = () => {
     <img className="aboutImage" src="https://imgur.com/x33b0yt.png" alt="selfie"/>
     <div className="aboutContainer">
       <h2 className="aboutTitle"> About Me </h2>
-      <p className="aboutParagraph"> Motivated full-stack software engineer with an aptitude for learning new skills quickly. Strong team player who has contributed to multiple teams and helped drive the design and development of many full-stack applications. Prior to software development, I gained valuable experience in solving difficult and ambiguous problems as a mechanical engineer. Motivated self-starter committed to continuous improvement and staying up-to-date with industry trends. Seeking to leverage my engineering experience to drive innovation and contribute to impactful projects. </p>
+      <p className="aboutParagraph"> Software engineer with an aptitude for learning new skills quickly. Strong team player who has contributed to multiple teams and helped drive the design and development of many full-stack applications. In addition to software development, I have gained valuable experience in solving difficult and ambiguous problems as a mechanical engineer. Motivated self-starter committed to continuous improvement and staying up-to-date with industry trends. Seeking to leverage my engineering experience to drive innovation and contribute to impactful projects. </p>
       <h2 className="aboutTitle"> Technical Skills </h2>
        
        <div className="aboutImages">
