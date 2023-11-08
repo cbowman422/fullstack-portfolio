@@ -18,7 +18,7 @@
     "live": "https://capstone-chat.netlify.app",
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
-    "description" : "Messenger is a dynamic MERN application employing Socket.IO for real time chat room messaging. Responsible for integrating a new library, Socket.IO, into a MERN application with authorization in order to accomplish MVP in a 1 week sprint."
+    "description" : "Messenger is a dynamic MERN application employing Socket.IO for real time chat room messaging. Responsible for integrating a new library, Socket.IO, into a MERN application with JWT and Bearer Authorization in order to accomplish MVP in a 1 week sprint."
   },
   {
     "name": "HAPI Hour",
