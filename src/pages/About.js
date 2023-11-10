@@ -18,8 +18,9 @@ const About = () => {
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=ffffff&style=for-the-badge" alt="Python"/>
         <img src="https://img.shields.io/badge/-Java-5382a1?logo=Java&logoColor=ffffff&style=for-the-badge" alt="Java"/>
         <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000000&style=for-the-badge" alt="C"/>
+        <img src="https://img.shields.io/badge/-C Sharp-512BD4?logo=csharp&logoColor=ffffff&style=for-the-badge" alt="C#"/>
         <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=ffffff&style=for-the-badge" alt="C++"/>
-        <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=ffffff&style=for-the-badge" alt="C++"/>
+        <img src="https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=ffffff&style=for-the-badge" alt="PHP"/>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge" alt="HTML5"/>
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge" alt="CSS3"/>
         <img src="https://img.shields.io/badge/-JSON-000000?logo=JSON&logoColor=ffffff&style=for-the-badge" alt="JSON"/>
