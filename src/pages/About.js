@@ -14,9 +14,9 @@ const About = () => {
       <h2 className="aboutTitle"> Technical Skills </h2>
        
        <div className="aboutImages">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=000000&style=for-the-badge" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=ffffff&style=for-the-badge" alt="Python"/>
         <img src="https://img.shields.io/badge/-Java-5382a1?logo=Java&logoColor=ffffff&style=for-the-badge" alt="Java"/>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=000000&style=for-the-badge" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=000000&style=for-the-badge" alt="C"/>
         <img src="https://img.shields.io/badge/-C Sharp-512BD4?logo=csharp&logoColor=ffffff&style=for-the-badge" alt="C#"/>
         <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=ffffff&style=for-the-badge" alt="C++"/>
