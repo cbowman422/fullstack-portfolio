@@ -11,7 +11,7 @@ const About = () => {
     <div className="aboutContainer">
       <h2 className="aboutTitle"> About Me </h2>
       <p className="aboutParagraph"> Mechanical engineer with a strong background in structural engineering, Finite Element Analysis (FEA) and software engineering who is passionate about aerospace and defense. </p>
-      <h2 className="aboutTitle"> Technical Skills </h2>
+      <h2 className="aboutTitle"> Technical Coding Skills </h2>
        
        <div className="aboutImages">
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=ffffff&style=for-the-badge" alt="Python"/>
