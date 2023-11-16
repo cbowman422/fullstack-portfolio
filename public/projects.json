@@ -19,13 +19,6 @@
     "git": "https://github.com/cbowman422/capstone_chat_fe",
     "image": "https://imgur.com/sJvm2cN.jpg",
     "description" : "Messenger is a dynamic MERN application employing Socket.IO for real time chat room messaging. Responsible for integrating a new library, Socket.IO, into a MERN application with JWT and Bearer Authorization in order to accomplish MVP in a 1 week sprint."
-  },
-  {
-    "name": "HAPI Hour",
-    "live": "https://hapi-hour.netlify.app/",
-    "git": "https://github.com/cbowman422/project-2",
-    "image": "https://imgur.com/CxEXPkD.jpg",
-    "description" : "HAPI Hour is a front end web application built with React.js to navigate objects from a 3rd party API (thecocktaildb.com). Coordinated with another software engineer to accomplish MVP in a 1 week sprint and mainly responsible for developing the React components."
   }
   
 ]
